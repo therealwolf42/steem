@@ -45,7 +45,7 @@
 
 #else // IS LIVE STEEM NETWORK
 
-#define STEEM_BLOCKCHAIN_VERSION              ( version(0, 22, 1) )
+#define STEEM_BLOCKCHAIN_VERSION              ( version(0, 22, 333) )
 #define STEEM_NETWORK_TYPE                    "mainnet"
 
 #define STEEM_INIT_PUBLIC_KEY_STR             "STM8GC13uCZbP44HzMLV6zPZGwVQ8Nt4Kji8PapsPiNq1BK153XTX"
